@@ -1,0 +1,42 @@
+Train Name    : Charminar Express
+Train Number  : 12760
+Source        : HYDERABAD DECCAN (HYB)
+Destination   : CHENNAI BEACH (MSB)
+No. of Seats  : 5
+
+
+
+Train Name    : Hundry Express
+Train Number  : 17027
+Source        : HYDERABAD DECAN (HYB)
+Destination   : KURNOOL CITY (KRNT)
+No. of Seats  : 5
+
+
+Train Name    : Godavari Sf Express
+Train Number  : 12728
+Source        : HYDERABAD DECCAN (HYB)
+Destination   : VISAKHAPATNAM (VSKP)
+No. of Seats  : 5
+
+
+
+Train Name    : Hussain Sagar Sf Express
+Train Number  : 12702
+Source        : HYDERABAD DECCAN (HYB)
+Destination   : MUMBAI CSMT (CSMT)
+No. of Seats  : 5
+
+
+Train Name    : Golconda Express
+Train Number  : 17202
+Source        : SECUNDERABAD JUNCTION
+Destination   : GUNTUR JUNCTION
+No. of Seats  : 5
+
+
+Train Name    : Intercity Express
+Train Number  : 17011
+Source        : HYDERABAD DECCAN (HYB)
+Destination   : SIRPUR KAGAZNAGAR (SKZR)
+No. of Seats  : 5

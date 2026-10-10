@@ -1,0 +1,30 @@
+Train Number                 : 12760
+Total Seats                  : 5
+Waiting List                 : 0
+Current Booking Seat Number  : 0
+
+Train Number                 : 17027
+Total Seats                  : 5
+Waiting List                 : 0
+Current Booking Seat Number  : 0
+
+Train Number                 : 12728
+Total Seats                  : 5
+Waiting List                 : 0
+Current Booking Seat Number  : 0
+
+Train Number                 : 12702
+Total Seats                  : 5
+Waiting List                 : 0
+Current Booking Seat Number  : 0
+
+Train Number                 : 17202
+Total Seats                  : 5
+Waiting List                 : 0
+Current Booking Seat Number  : 0
+
+Train Number                 : 17011
+Total Seats                  : 5
+Waiting List                 : 0
+Current Booking Seat Number  : 0
+

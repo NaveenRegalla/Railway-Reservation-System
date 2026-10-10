@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+*.gch
+a.out
+train
+
+# Private login credentials
+usr_logins.txt
+
+# Temporary files
+data/temp_seats.txt
+*~
+*.swp
+
+# Passenger booking records
+passengers.txt
+
+# Private login credentials
+usr_logins.txt
