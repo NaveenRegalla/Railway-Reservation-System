@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "seat_struct.h"
-#include "defines.h"
+#include "declaration.h"
 
 void update_seat_file(int train_number, int booked_seats)
 {

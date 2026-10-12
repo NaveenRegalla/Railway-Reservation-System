@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "defines.h"
+#include "declaration.h"
 #include "defines_1.h"
 
 int main()

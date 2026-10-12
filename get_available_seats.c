@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "defines.h"
+#include "declaration.h"
 #include "seat_struct.h"
 
 int get_available_seats(int train_number)
